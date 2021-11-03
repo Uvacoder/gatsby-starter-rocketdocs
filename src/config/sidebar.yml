@@ -4,14 +4,24 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
-- label: Usage
+- label: Hooks
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: 'useCallback'
+      link: '/usage/useCallback'
+    - label: 'useContext'
+      link: '/usage/useContext'
+    - label: 'useEffect'
+      link: '/usage/useEffect
+    - label: 'useLayoutEffect'
+      link: '/usage/useLayoutEffect'
+    - label: 'useMemo'
+      link: '/usage/useMemo'
+    - label: 'useReducer'
+      link: '/usage/useReducer
+    - label: 'useRef'
+      link: '/usage/useRef'
+    - label: 'useState'
+      link: '/usage/useState'  
 - label: More
   items:
     - label: FAQ
