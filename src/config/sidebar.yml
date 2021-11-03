@@ -11,13 +11,13 @@
     - label: 'useContext'
       link: '/usage/useContext'
     - label: 'useEffect'
-      link: '/usage/useEffect
+      link: '/usage/useEffect'
     - label: 'useLayoutEffect'
       link: '/usage/useLayoutEffect'
     - label: 'useMemo'
       link: '/usage/useMemo'
     - label: 'useReducer'
-      link: '/usage/useReducer
+      link: '/usage/useReducer'
     - label: 'useRef'
       link: '/usage/useRef'
     - label: 'useState'
